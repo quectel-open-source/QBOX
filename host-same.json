@@ -1,0 +1,115 @@
+{
+   
+   "channel1" : {
+      "address" : "rtsp://admin:quectel12345@10.88.107.151:554/h265/ch1/main/av_stream",
+      "algo" : 0,
+      "hostType" : 0,
+      "waitAlgoNum":10,
+      "waitFrame":20
+   },
+   "channel2" : {
+      "address" : "/data/walk1.mp4",
+      "algo" : 0,
+      "hostType" : 1,
+      "waitAlgoNum":10,
+      "waitFrame":20
+   },
+   "channel3" : {
+      "address" : "/data/walk1.mp4",
+      "algo" : 0,
+      "hostType" : 1,
+      "waitAlgoNum":10,
+      "waitFrame":20
+   },
+   "channel4" : {
+      "address" : "/data/walk1.mp4",
+      "algo" : 0,
+      "hostType" : 1,
+      "waitAlgoNum":10,
+      "waitFrame":20
+   },
+   "channel5" : {
+      "address" : "/data/walk1.mp4",
+      "algo" : 0,
+      "hostType" : 1,
+      "waitAlgoNum":10,
+      "waitFrame":20
+   },
+   "channel6" : {
+      "address" : "/data/walk1.mp4",
+      "algo" : 0,
+      "hostType" : 1,
+      "waitAlgoNum":10,
+      "waitFrame":20
+   },
+   "channel7" : {
+      "address" : "/data/walk1.mp4",
+      "algo" : 0,
+      "hostType" : 1,
+      "waitAlgoNum":10,
+      "waitFrame":20
+   },
+   "channel8" : {
+      "address" : "/data/walk1.mp4",
+      "algo" : 0,
+      "hostType" : 1,
+      "waitAlgoNum":10,
+      "waitFrame":20
+   },
+   "channel9" : {
+      "address" : "/data/walk1.mp4",
+      "algo" : 0,
+      "hostType" : 1,
+      "waitAlgoNum":10,
+      "waitFrame":20
+   },
+   "channel10" : {
+      "address" : "/data/walk1.mp4",
+      "algo" : 0,
+      "hostType" : 1,
+      "waitAlgoNum":10,
+      "waitFrame":20
+   },
+    "channel11" : {
+      "address" : "/data/walk1.mp4",
+      "algo" : 0,
+      "hostType" : 1,
+      "waitAlgoNum":10,
+      "waitFrame":20
+   },
+   "channel12" : {
+      "address" : "/data/walk1.mp4",
+      "algo" : 0,
+      "hostType" : 1,
+      "waitAlgoNum":10,
+      "waitFrame":20
+   },
+   "channel13" : {
+      "address" : "/data/walk1.mp4",
+      "algo" : 0,
+      "hostType" : 1,
+      "waitAlgoNum":10,
+      "waitFrame":20
+   },
+   "channel14" : {
+      "address" : "/data/walk1.mp4",
+      "algo" : 0,
+      "hostType" : 1,
+      "waitAlgoNum":10,
+      "waitFrame":20
+   },
+   "channel15" : {
+      "address" : "/data/walk1.mp4",
+      "algo" : 0,
+      "hostType" : 1,
+      "waitAlgoNum":10,
+      "waitFrame":20
+   },
+   "channel16" : {
+      "address" : "/data/walk1.mp4",
+      "algo" : 0,
+      "hostType" : 1,
+      "waitAlgoNum":10,
+      "waitFrame":20
+   }
+}

@@ -1,0 +1,13 @@
+{
+   "channel1" : {
+      "hostType" : "IPC",
+      "address" : "rtsp://admin:quectel12345@10.88.107.151:554/h265/ch1/main/av_stream",
+      "algo" : 0
+   },
+   
+   "channel2" : {
+      "hostType" : "FILE",
+      "address" : "/home/quectel/zhangleo/demo.mp4",
+      "algo" : 0
+   }
+}

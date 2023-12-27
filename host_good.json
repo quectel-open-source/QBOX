@@ -1,0 +1,115 @@
+{
+   
+   "channel1" : {
+      "address" : "rtsp://admin:quectel12345@10.88.107.151:554/h265/ch1/main/av_stream",
+      "algo" : 0,
+      "hostType" : 0,
+      "waitAlgoNum":10,
+      "waitFrame":20
+   },
+   "channel2" : {
+      "address" : "/home/quectel/video/walk1.mp4",
+      "algo" : 0,
+      "hostType" : 1,
+      "waitAlgoNum":10,
+      "waitFrame":20
+   },
+   "channel3" : {
+      "address" : "/home/quectel/video/walk2.mp4",
+      "algo" : 0,
+      "hostType" : 1,
+      "waitAlgoNum":10,
+      "waitFrame":20
+   },
+   "channel4" : {
+      "address" : "/home/quectel/video/safe1.mp4",
+      "algo" : 0,
+      "hostType" : 1,
+      "waitAlgoNum":10,
+      "waitFrame":20
+   },
+   "channel5" : {
+      "address" : "/home/quectel/video/safe2.mp4",
+      "algo" : 0,
+      "hostType" : 1,
+      "waitAlgoNum":10,
+      "waitFrame":20
+   },
+   "channel6" : {
+      "address" : "/home/quectel/video/car1.mp4",
+      "algo" : 0,
+      "hostType" : 1,
+      "waitAlgoNum":10,
+      "waitFrame":20
+   },
+   "channel7" : {
+      "address" : "/home/quectel/video/car2.mp4",
+      "algo" : 0,
+      "hostType" : 1,
+      "waitAlgoNum":10,
+      "waitFrame":20
+   },
+   "channel8" : {
+      "address" : "/home/quectel/video/walk1.mp4",
+      "algo" : 0,
+      "hostType" : 1,
+      "waitAlgoNum":10,
+      "waitFrame":20
+   },
+   "channel9" : {
+      "address" : "/home/quectel/video/walk1.mp4",
+      "algo" : 0,
+      "hostType" : 1,
+      "waitAlgoNum":10,
+      "waitFrame":20
+   },
+   "channel10" : {
+      "address" : "/home/quectel/video/safe2.mp4",
+      "algo" : 0,
+      "hostType" : 1,
+      "waitAlgoNum":10,
+      "waitFrame":20
+   },
+    "channel11" : {
+      "address" : "/home/quectel/video/safe2.mp4",
+      "algo" : 0,
+      "hostType" : 1,
+      "waitAlgoNum":10,
+      "waitFrame":20
+   },
+   "channel12" : {
+      "address" : "/home/quectel/video/car1.mp4",
+      "algo" : 0,
+      "hostType" : 1,
+      "waitAlgoNum":10,
+      "waitFrame":20
+   },
+   "channel13" : {
+      "address" : "/home/quectel/video/car2.mp4",
+      "algo" : 0,
+      "hostType" : 1,
+      "waitAlgoNum":10,
+      "waitFrame":20
+   },
+   "channel14" : {
+      "address" : "/home/quectel/video/car1.mp4",
+      "algo" : 0,
+      "hostType" : 1,
+      "waitAlgoNum":10,
+      "waitFrame":20
+   },
+   "channel15" : {
+      "address" : "/home/quectel/video/car2.mp4",
+      "algo" : 0,
+      "hostType" : 1,
+      "waitAlgoNum":10,
+      "waitFrame":20
+   },
+   "channel16" : {
+      "address" : "/home/quectel/video/walk2.mp4",
+      "algo" : 0,
+      "hostType" : 1,
+      "waitAlgoNum":10,
+      "waitFrame":20
+   }
+}

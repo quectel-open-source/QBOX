@@ -1,0 +1,112 @@
+{
+   "channel1" : {
+      "address" : "rtsp://admin:quectel12345@10.88.107.151:554/h265/ch1/main/av_stream",
+      "algo" : 0,
+      "hostType" : 0,
+      "waitAlgoNum":10,
+      "waitFrame":20
+   },
+   "channel2" : {
+      "address" : "/data/walk1.mp4",
+      "algo" : 0,
+      "hostType" : 1,
+      "waitAlgoNum":10,
+      "waitFrame":20
+   },
+   "channel3" : {
+      "address" : "/data/walk2.mp4",
+      "algo" : 0,
+      "hostType" : 1,
+      "waitAlgoNum":10,
+      "waitFrame":20
+   },
+   "channel4" : {
+      "address" : "/data/safe1.mp4",
+      "algo" : 0,
+      "hostType" : 1
+   },
+   "channel5" : {
+      "address" : "/data/safe2.mp4",
+      "algo" : 0,
+      "hostType" : 1,
+      "waitAlgoNum":10,
+      "waitFrame":20
+   },
+   "channel6" : {
+      "address" : "/data/car1.mp4",
+      "algo" : 0,
+      "hostType" : 1,
+      "waitAlgoNum":10,
+      "waitFrame":20
+   },
+   "channel7" : {
+      "address" : "/data/car2.mp4",
+      "algo" : 0,
+      "hostType" : 1,
+      "waitAlgoNum":10,
+      "waitFrame":20
+   },
+   "channel8" : {
+      "address" : "/data/smoke.mp4",
+      "algo" : 0,
+      "hostType" : 1,
+      "waitAlgoNum":10,
+      "waitFrame":20
+   },
+   "channel9" : {
+      "address" : "/data/plate2.mp4",
+      "algo" : 0,
+      "hostType" : 1,
+      "waitAlgoNum":10,
+      "waitFrame":20
+   },
+   "channel10" : {
+      "address" : "/data/walk1.mp4",
+      "algo" : 0,
+      "hostType" : 1,
+      "waitAlgoNum":10,
+      "waitFrame":20
+   },
+    "channel11" : {
+      "address" : "/data/safe2.mp4",
+      "algo" : 0,
+      "hostType" : 1,
+      "waitAlgoNum":10,
+      "waitFrame":20
+   },
+   "channel12" : {
+      "address" : "/data/car1.mp4",
+      "algo" : 0,
+      "hostType" : 1,
+      "waitAlgoNum":10,
+      "waitFrame":20
+   },
+   "channel13" : {
+      "address" : "/data/car2.mp4",
+      "algo" : 0,
+      "hostType" : 1,
+      "waitAlgoNum":10,
+      "waitFrame":20
+   },
+   "channel14" : {
+      "address" : "/data/car1.mp4",
+      "algo" : 0,
+      "hostType" : 1,
+      "waitAlgoNum":10,
+      "waitFrame":20
+   },
+   "channel15" : {
+      "address" : "/data/car2.mp4",
+      "algo" : 0,
+      "hostType" : 1,
+      "waitAlgoNum":10,
+      "waitFrame":20
+   },
+   "channel16" : {
+      "address" : "/data/walk2.mp4",
+      "algo" : 0,
+      "hostType" : 1,
+      "waitAlgoNum":10,
+      "waitFrame":20
+   }
+}

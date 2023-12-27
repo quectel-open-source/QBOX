@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/qt_zh_CN.qm</file>
+        <file>image/add.png</file>
+        <file>image/delete.png</file>
+        <file>image/update.png</file>
+        <file>image/excel.png</file>
+        <file>image/print.png</file>
+        <file>image/select.png</file>
+        <file>image/first.png</file>
+        <file>image/last.png</file>
+        <file>image/next.png</file>
+        <file>image/pre.png</file>
+        <file>image/banner.png</file>
+        <file>image/close.png</file>
+        <file>image/login.png</file>
+        <file>image/input.png</file>
+        <file>image/move.png</file>
+        <file>image/btncheckoff.png</file>
+        <file>image/btncheckon.png</file>
+        <file>image/config.png</file>
+        <file>image/defence.png</file>
+        <file>image/map.png</file>
+        <file>image/bufang.png</file>
+        <file>image/chefang.png</file>
+        <file>image/u8.png</file>
+        <file>image/smalllogo.png</file>
+        <file>image/main2.png</file>
+        <file>image/main.png</file>
+        <file>style.qss</file>
+        <file>dracula.qss</file>
+    </qresource>
+</RCC>
